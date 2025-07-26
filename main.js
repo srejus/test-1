@@ -1,3 +1,4 @@
 function sayHello(){
-    alert('hello')
+    alert('hello');
+    console.log("changes")
 }
